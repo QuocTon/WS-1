@@ -1,7 +1,7 @@
 ---
 title: "Giám sát Lambda qua CloudWatch Logs"
 date: "2025-08-10"
-weight: 5
+weight: 6
 chapter: false
 pre: "<b> 2.5 </b>"
 ---
@@ -15,3 +15,4 @@ Trong phần này, bạn sẽ sử dụng **Amazon CloudWatch Logs** để giám
 **🔗 Liên kết nhanh:**
 - [Đi tới 6.1 – Xem log Lambda](6.1.%20Xem-log-Lambda/_index.md)
 - [Đi tới 6.2 – Tạo cảnh báo](6.2-Tao-canh-bao/_index.md)
+
