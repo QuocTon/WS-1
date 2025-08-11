@@ -8,8 +8,7 @@ pre: "<b> 4. </b>"
 
 ## **4. Kích hoạt Amazon Macie và quét dữ liệu nhạy cảm**
 
-Trong phần này, bạn sẽ bật dịch vụ **Amazon Macie** và cấu hình để quét bucket S3 chứa dữ liệu mẫu, nhằm phát hiện thông tin nhạy cảm (email, số điện thoại, v.v.).
-
+Amazon Macie là dịch vụ giúp tự động phát hiện dữ liệu nhạy cảm trong các bucket S3 như email, số điện thoại hay thông tin cá nhân. Bạn cần kích hoạt Macie trên AWS Console, sau đó cấu hình để quét bucket chứa dữ liệu mẫu. Macie sẽ phân tích và báo cáo các đối tượng chứa thông tin quan trọng, giúp bạn dễ dàng quản lý và bảo vệ dữ liệu nhạy cảm một cách hiệu quả.
 ---
 
 **🔗 Liên kết nhanh:**
