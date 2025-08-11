@@ -3,7 +3,7 @@ title: "Dọn dẹp tài nguyên"
 date: "2025-08-10"
 weight: 7
 chapter: false
-pre: "<b> 2.6 </b>"
+pre: "<b> 7. </b>"
 ---
 
 ## **7. Dọn dẹp tài nguyên**
