@@ -30,8 +30,9 @@ pre: "<b> 5.2 </b>"
      }
      ```
 
-   ![Kết quả test Lambda](/images/5.lambda/lambda-test-result.png)
+   ![Kết quả test Lambda](/5.lambda/lambda-test-result.png)
 
 ---
 
 > 📌 **Mẹo**: Kỹ thuật này có thể áp dụng cho nhiều loại dữ liệu nhạy cảm khác như số thẻ ngân hàng, số CMND/CCCD…
+
