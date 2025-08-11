@@ -11,7 +11,7 @@ pre: "<b> 3.2 </b>"
 1. Chọn bucket vừa tạo ở [Bước 3.1 – Tạo bucket trên S3](#tao-bucket-s3).  
 2. Nhấn nút **Upload**.  
 
-   ![Nút upload file vào bucket S3](/images/1.s3/upload-button.png)
+   ![Nút upload file vào bucket S3](WS-1/images/1.s3/upload-button.png)
 
 3. Kéo thả hoặc chọn file `sample.csv` đã chuẩn bị.  
 4. Nhấn **Upload** để hoàn tất.  
@@ -21,3 +21,4 @@ pre: "<b> 3.2 </b>"
 ---
 
 > 📌 **Mẹo**: Đảm bảo rằng file CSV chứa dữ liệu mẫu (email, số điện thoại) đã được lưu trước khi upload, để phục vụ bước quét dữ liệu với Macie.
+
