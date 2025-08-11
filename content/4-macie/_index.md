@@ -1,7 +1,7 @@
 ---
 title: "Kích hoạt Amazon Macie và quét dữ liệu nhạy cảm"
 date: "2025-08-10"
-weight: 3
+weight: 4
 chapter: false
 pre: "<b> 2.3 </b>"
 ---
