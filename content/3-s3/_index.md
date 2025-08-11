@@ -6,21 +6,20 @@ chapter: false
 pre: "<b> 3. </b>"
 ---
 
-### 3.2. Upload file CSV vào bucket {#upload-file-csv}
+### 3. Lưu trữ S3
 
-1. Chọn bucket vừa tạo ở [Bước 3.1 – Tạo bucket trên S3](#tao-bucket-s3).  
-2. Nhấn nút **Upload**.  
+Phần này hướng dẫn bạn cách tạo bucket trên Amazon S3 và upload file dữ liệu mẫu. Bucket sẽ là nơi lưu trữ dữ liệu thô, phục vụ cho các bước tiếp theo như quét và bảo vệ dữ liệu nhạy cảm bằng Amazon Macie.
 
-   ![Nút upload file vào bucket S3](/WS-1/images/1.s3/upload-button.png)
-
-3. Kéo thả hoặc chọn file `sample.csv` đã chuẩn bị.  
-4. Nhấn **Upload** để hoàn tất.  
-
-   ![Xác nhận upload file CSV thành công](/images/1.s3/upload-success.png)
 
 ---
+*🔗 Liên kết nhanh:**
+- [Đi tới 3.1 – Tạo bucket trên S3](3.1-tao-bucket-s3/)
+- [Đi tới 3.2 – Upload file CSV](3.2-upload-file-csv)
 
-> 📌 **Mẹo**: Đảm bảo rằng file CSV chứa dữ liệu mẫu (email, số điện thoại) đã được lưu trước khi upload, để phục vụ bước quét dữ liệu với Macie.
+
+
+
+
 
 
 
