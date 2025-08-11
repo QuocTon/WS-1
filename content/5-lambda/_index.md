@@ -1,7 +1,7 @@
 ---
 title: "Tạo AWS Lambda để che dấu (mask) dữ liệu"
 date: "2025-08-10"
-weight: 4
+weight: 5
 chapter: false
 pre: "<b> 2.4 </b>"
 ---
