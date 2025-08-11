@@ -1,7 +1,7 @@
 ---
 title: "Upload file CSV vào bucket"
 date: "2025-08-10"
-weight: 2
+weight: 3
 chapter: false
 pre: "<b> 3.2 </b>"
 ---
@@ -21,5 +21,6 @@ pre: "<b> 3.2 </b>"
 ---
 
 > 📌 **Mẹo**: Đảm bảo rằng file CSV chứa dữ liệu mẫu (email, số điện thoại) đã được lưu trước khi upload, để phục vụ bước quét dữ liệu với Macie.
+
 
 
